@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=miGyeongLee%20&#41;%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=miGyeongLee%20&#58;&#41;%20%20&height=200&fontSize=100)
 
