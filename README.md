@@ -5,10 +5,8 @@
   
 ##### **😊Welcome my GitHub😊**
 ##### **언제나 꺼지지 않는 불씨같은 신입 개발자 이미경 입니다 &#58;&#41;**
-  ----------------------------------------------------------------------------------------
   <br/>
   
-  ### **☁️My SNS☁️**
   
   ### **📧Email📧**
   ![Gmail](https://img.shields.io/badge/ak1004428@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
@@ -23,11 +21,11 @@
   ![React](https://img.shields.io/badge/React-2962FF?style=flat-square&logo=React&logoColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 
-
-</div>
+  </br>
   
-  ----------------------------------------------------------------------------------------
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migyeonglee&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migyeonglee&width=150px&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+
+
+  </div>
