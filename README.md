@@ -23,7 +23,7 @@
 
   </br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migyeonglee&width=150px&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
