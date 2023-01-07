@@ -7,6 +7,11 @@
 ##### **언제나 꺼지지 않는 불씨같은 신입 개발자 이미경 입니다 &#58;&#41;**
   <br/>
   
+  ### **🙋‍♀️portflio🙇‍♀️**
+  <a href=https://sordid-nautilus-3c7.notion.site/MiGyeong-Portfolio-c56beed3bb564f72923f9fc3fb185c14>
+    <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white>
+  </a>
+  </br>
   
   ### **📧Email📧**
   ![Gmail](https://img.shields.io/badge/ak1004428@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
@@ -20,8 +25,12 @@
   ![jQuery](https://img.shields.io/badge/jQuery-BBDEFB?style=flat-square&logo=jQuery&logoColor=0769AD)
   ![React](https://img.shields.io/badge/React-2962FF?style=flat-square&logo=React&logoColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-
   </br>
+  
+  ### **📖Studying📖**
+  ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black) 
+  ![React](https://img.shields.io/badge/React-2962FF?style=flat-square&logo=React&logoColor=61DAFB)
+  ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=61DAFB)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
