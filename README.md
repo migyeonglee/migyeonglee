@@ -32,10 +32,10 @@
   ![React](https://img.shields.io/badge/React-2962FF?style=flat-square&logo=React&logoColor=61DAFB)
   ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=61DAFB)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/migyeonglee/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=migyeonglee&layout=compact&theme=Most%20Used%20Languages&langs_count=8)](https://github.com/migyeonglee/github-readme-stats)
 <br/>
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=migyeonglee&width=150px&show_icons=true&theme={theme})](https://github.com/migyeonglee/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=migyeonglee&&show_icons=true&theme={theme})](https://github.com/migyeonglee/github-readme-stats)
 
 
   </div>
